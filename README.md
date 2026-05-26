@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](screenshots/Performance_Analysis.jpg)
+![Dashboard Preview](screenshots/Performance__Analysis.jpg)
 
 ## 📌 Overview
 
